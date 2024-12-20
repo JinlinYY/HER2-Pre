@@ -1,5 +1,7 @@
 # A Multimodal Neural Network Model for Non-invasive HER2 Status Assessment in Breast Cancer Patients 
 
+![image](https://github.com/JinlinYY/HER2-Pre/blob/main/HLNet.png)
+
 ## How to use
 
 Install environment using`pip install -r requirements.txt`
