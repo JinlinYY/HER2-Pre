@@ -21,3 +21,7 @@ To run, execute `python main-XXX.py`.
 `main-split-her2.py`: This script trains, validates, and tests a model for HER2 category prediction using both the PUMC and Longfu datasets.
 
 `main-ln-split.py`: This script trains, validates, and tests a model for predicting lymph node categories in HER2-positive cases using both the PUMC and Longfu datasets.
+
+`Labelme-range.py`: This script performs the expansion of tumor-marked regions. It is used to extend the boundaries of regions marked as tumors.
+
+`ROI.py`: This script is used for extracting regions of interest (ROIs) that represent the tumor-marked areas from images.
